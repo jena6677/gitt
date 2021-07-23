@@ -6,5 +6,6 @@ class sum
         int b = 9;
         int sum2 = a+b;
         System.out.println(sum2);    
+        System.out.println("hello world");
     }
 }
